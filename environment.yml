@@ -1,8 +1,10 @@
+name: covid_19_eda
 channels:
 - conda-forge
 - defaults
 - anaconda
 dependencies:
+- python=3.6
 - jupyter=1.0.0
 - matplotlib=3.1.1
 - pandas=0.25.1
