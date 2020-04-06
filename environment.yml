@@ -12,3 +12,4 @@ dependencies:
 - seaborn=0.9.0
 - altair=4.1.0
 - bokeh==2.0.1
+- vega
