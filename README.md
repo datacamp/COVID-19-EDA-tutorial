@@ -28,6 +28,13 @@ If you are going to code along and use the [Anaconda distribution](https://www.a
 
 ## Getting set up computationally
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hugobowne/COVID-19-EDA-tutorial/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hugobowne/COVID-19-EDA-tutorial/blob/master/notebooks/1-COVID-19-EDA-solution.ipynb#scrollTo=lzC1zSBJ2tvx)
+
+The first option is to click on either the [Binder](https://mybinder.readthedocs.io/en/latest/) or [Colab](https://research.google.com/colaboratory/faq.html) badge above. These will spin up the necessary computational environment for you so you can write and execute Python code from the comfort of your browser. They are free services. Due to this, the resources  are not guaranteed, though they usually work well. If you want as close to a guarantee as possible, follow the instructions below to set up your computational environment locally (that is, on your own computer).
+
+
+
 ### 1. Clone the repository
 
 To get set up for this live coding session, clone this repository. You can do so by executing the following in your terminal:
