@@ -1,7 +1,7 @@
 # covid-19-EDA-tutorial
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hugobowne/COVID-19-EDA-tutorial/master)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hugobowne/COVID-19-EDA-tutorial/blob/master/notebooks/1-COVID-19-EDA-solution.ipynb#scrollTo=lzC1zSBJ2tvx)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hugobowne/COVID-19-EDA-tutorial/blob/master/notebooks/1-COVID-19-EDA.ipynb)
 
 This tutorial's purpose is to introduce people to the [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) and how to explore it using some foundational packages in the Scientific Python Data Science stack.
 
@@ -29,7 +29,7 @@ If you are going to code along and use the [Anaconda distribution](https://www.a
 ## Getting set up computationally
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hugobowne/COVID-19-EDA-tutorial/master)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hugobowne/COVID-19-EDA-tutorial/blob/master/notebooks/1-COVID-19-EDA-solution.ipynb#scrollTo=lzC1zSBJ2tvx)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hugobowne/COVID-19-EDA-tutorial/blob/master/notebooks/1-COVID-19-EDA.ipynb)
 
 The first option is to click on either the [Binder](https://mybinder.readthedocs.io/en/latest/) or [Colab](https://research.google.com/colaboratory/faq.html) badge above. These will spin up the necessary computational environment for you so you can write and execute Python code from the comfort of your browser. They are free services. Due to this, the resources  are not guaranteed, though they usually work well. If you want as close to a guarantee as possible, follow the instructions below to set up your computational environment locally (that is, on your own computer).
 
